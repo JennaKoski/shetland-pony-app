@@ -1,0 +1,4 @@
+name: shetland-pony-app-drupal10
+recipe: drupal10
+config:
+  webroot: web
